@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Expert in this field**
 
-- 📝 I regularly write articles on [Thrillfeed.com](Thrillfeed.com)
-
 - 💬 Ask me about **html, CSS, WordPress, SEO**
 
 - 📫 How to reach me **pawandhakal108@gmail.com**
