@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/thrill_feed" target="blank"><img src="https://img.shields.io/twitter/follow/thrill feed?logo=twitter&style=for-the-badge" alt="thrill feed" /></a> </p>
 
-- 🔭 I’m currently working on **License Nepal**
+- 🔭 I’m currently working on **MountStar Maintainance As a Website Developer**
 
-- 🌱 I’m currently learning **JS, PHP, Laravel, Flutter**
+- 🌱 I’m currently learning **JS, PHP, Laravel, Flutter **
 
 - 🤝 I’m looking for help with **Expert in this field**
 
 - 📝 I regularly write articles on [Thrillfeed.com](Thrillfeed.com)
 
-- 💬 Ask me about **html, CSS, WordPress**
+- 💬 Ask me about **html, CSS, WordPress, SEO**
 
 - 📫 How to reach me **pawandhakal108@gmail.com**
 
