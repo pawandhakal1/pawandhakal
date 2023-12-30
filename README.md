@@ -11,14 +11,14 @@
 
 - 🤝 I’m looking for help with **Expert in this field**
 
-- 💬 Ask me about **HTML, CSS, WordPress, SEO**
+- 💬 Ask me about **HTML, CSS, WordPress, SEO, and Flutter**
 
 - 📫 How to reach me **pawandhakal109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thrill feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thrill feed" height="30" width="40" /></a>
-<a href="https://fb.com/pawan dhakal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pawan dhakal" height="30" width="40" /></a>
+<a href="https://twitter.com/Pawandhakall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thrill feed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100088536474651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pawan dhakal" height="30" width="40" /></a>
 <a href="https://instagram.com/pawan_anish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan_anish" height="30" width="40" /></a>
 </p>
 
