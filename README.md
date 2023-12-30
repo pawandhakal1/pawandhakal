@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Dhakal</h1>
-<h3 align="center">I am website developer and content writer from Nepal</h3>
+<h3 align="center">I am website developer and software developer</h3>
 <img align="right" alt="coding" width="400" src="https://bamboomcloud.com/wp-content/uploads/2018/04/blue-office.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawandhakal108&label=Profile%20views&color=0e75b6&style=flat" alt="pawandhakal108" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **Expert in this field**
 
-- 💬 Ask me about **html, CSS, WordPress, SEO**
+- 💬 Ask me about **HTML, CSS, WordPress, SEO**
 
-- 📫 How to reach me **pawandhakal108@gmail.com**
+- 📫 How to reach me **pawandhakal109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
